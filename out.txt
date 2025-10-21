@@ -1,0 +1,2 @@
+Acesta este codul comprimat: A11B3C7D1A1B1C1D1 
+Acesta este decomprimat: AAAAAAAAAAABBBCCCCCCCDABCD 
