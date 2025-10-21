@@ -1,0 +1,18 @@
+# Ignoră fișiere obiect (generate la compilare)
+*.o
+
+# Ignoră fișiere executabile
+*.exe
+
+# Ignoră fișiere temporare
+*.tmp
+*.log
+
+# Ignoră foldere de build
+/build/
+/Debug/
+/Release/
+
+# Ignoră fișiere generate de sistem
+.DS_Store
+Thumbs.db
