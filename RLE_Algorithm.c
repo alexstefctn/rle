@@ -3,6 +3,7 @@
 #include <string.h>
 
 int main(){
+    //acum teoretic sunt in branch ul de decompresie, nazdravanilor
 
     FILE *fin,*fout;
 
