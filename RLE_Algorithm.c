@@ -10,7 +10,7 @@ int main(){
     if (fin == NULL){
         printf("Nu se poate deschide fisierul de intare.");
         return 1;
-    }
+    } //maica ta e a mea
     fout = fopen ("out.txt", "a");
     if (fout == NULL){
         printf("Nu se poate deschide fisierul de iesire.");
